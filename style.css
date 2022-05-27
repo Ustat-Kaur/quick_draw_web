@@ -1,0 +1,21 @@
+body{
+    background-color:aliceblue;
+}
+#score{
+    font-size:28px;
+    margin-left:40px;
+    font-family:monospace
+}
+#timer{
+    font-size:28px;
+    float:right;
+    margin-right:40px;
+    font-family:monospace
+}
+#draw_sketch{
+    color:dimgray;
+    font-family:monospace;
+}
+#score{
+    float: left;
+}
